@@ -1,0 +1,1 @@
+This repository contains the code used to analyse a corpus of Young Poland and Positivist novels, and the corpus in lemmatised form (results from the TakIPI tool, https://clarin-pl.eu/dspace/handle/11321/31)
